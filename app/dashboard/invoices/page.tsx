@@ -1,8 +1,3 @@
-
-export default function page() {
-  return (
-    <div>
-       <p>Invoice Page</p> 
-    </div>
-  );
-}
+export default function Page() {
+    return <p>Invoice Page</p>;
+  }
